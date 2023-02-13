@@ -1,1 +1,1 @@
-Repo for Shell Basics Project
+Repo for ALX projects
